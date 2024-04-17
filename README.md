@@ -1,6 +1,6 @@
 # <h3 align="center"> Igelchen-Game.github.io </h3>
 
-# <h3 align="center"> [www.IgelchenGames.github.io](www.IgelchenGames.github.io) </h3>
+# <h3 align="center"> [www.IgelchenGames.github.io](https://igelchengames.github.io/) </h3>
 
 # <h3 align="center">A passionate full-stack developer from Denmark</h3>
 
