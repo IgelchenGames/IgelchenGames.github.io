@@ -1,4 +1,5 @@
-# Igelchen-Game.github.io
+# IgelchenGames.github.io
+
 [www.IgelchenGames.github.io](https://www.IgelchenGames.github.io/)
 
 <h3 align="center">A passionate full-stack developer from Denmark</h3>
